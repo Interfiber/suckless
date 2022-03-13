@@ -1,6 +1,9 @@
 # suckless
 Builds of st, and dmenu
 
+## NOTE
+If you want color emojis use the script located [here](https://github.com/Interfiber/dotfiles/blob/main/libxft-bgra-install-void) to install a patched version of libxft
+
 ## Build dmenu(void linux)
 ```bash
 cd dmenu
