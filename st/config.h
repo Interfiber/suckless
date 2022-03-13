@@ -8,6 +8,7 @@
 #include "theme.h"
 #include "theme_beg.h"
 static char *font = "JetBrains Mono Nerd Font:pixelsize=20:antialias=true:autohint=true";
+static char *font2 = "Noto Color Emoji:pixelsize=20:antialias=true:autohint=true";
 static int borderpx = 2;
 
 /*
